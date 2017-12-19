@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ba7207acb27a4cb80b2e30b89b2c6cfdbc749878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_e685f010f6c3f01ac67e3ba1d1bebd9b7cadc876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_67e359f523b0edb7b08c569eb8ba8f8845602872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0b37db8e2b8464df49b0e36c4d34f73f90214519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e4541280a5a3aa76975585432042b93edb2b2b26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_5d2a0969d7cda458b886284fc1871e6a0ff8c4a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_4254fe562a11ddc182dde8c18a1781fd547810e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_be15722a03983cfc8d65efee00da0476b8db9083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_51cfa748243874cf46a48006aefe75daedb59913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_2d11435fd0b0cd335f9bc3a8d087b2aebe991c3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f00e8e3625759082edfca75a40184dd15e027c07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_3b9480f2ea820d6acf4577a7561edbebb808d7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_272e9d1ae4b8de58d91381e48ef1fcab571b2b5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f8a9941f041f867bdf3a9e8cd4f83ec4ccdd5c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_b21c717d3185a514535ab11d9a3f140ee83db501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9446791740390f255c33d7058e2562d0a02ca64b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_710338a698e848baac221b5e345a05ce44ff491f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e85d62a99d01083fe6c840f7d32ad2ae72875f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8029fc3f731d579906ea64c069230510eef20fcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e88dd835512ab18e02d5d3d89e85a5a0311fa443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_5fcfdde0dd27fe04ca623c718e9d80689e9b310f.jar" />
+    </item>
+
+</items>

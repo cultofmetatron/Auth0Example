@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/cultofmetatron/Projects/Auth0Example/node_modules/react-native/Libraries/Text/RCTTextInput.m \
+  /Users/cultofmetatron/Projects/Auth0Example/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/cultofmetatron/Projects/Auth0Example/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h \
+  /Users/cultofmetatron/Projects/Auth0Example/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
+  /Users/cultofmetatron/Projects/Auth0Example/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/cultofmetatron/Projects/Auth0Example/node_modules/react-native/Libraries/Text/RCTTextSelection.h
