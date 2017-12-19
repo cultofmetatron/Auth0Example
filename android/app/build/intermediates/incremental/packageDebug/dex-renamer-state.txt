@@ -1,4 +1,4 @@
-#Tue Dec 19 16:13:53 EST 2017
+#Tue Dec 19 16:46:10 EST 2017
 base.0=/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

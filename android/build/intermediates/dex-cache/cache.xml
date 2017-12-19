@@ -111,6 +111,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/Auth0Example/react-native-auth0/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9f8784e0130e751fceb3bee009dcfeaf57471865">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/Auth0Example-react-native-auth0-unspecified_1d6177c7a13c1f88e471000b32b321aa925252f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/cultofmetatron/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
@@ -171,6 +180,15 @@
         revision="23.0.1"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
         <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8029fc3f731d579906ea64c069230510eef20fcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e4a9d42c6d45eed4fd52f28dee859884131eae4c">
+        <dex dex="/Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.0.1_bf55493f3fb18eed5adac3097b7b1352ecde0b96.jar" />
     </item>
     <item
         is-multidex="false"

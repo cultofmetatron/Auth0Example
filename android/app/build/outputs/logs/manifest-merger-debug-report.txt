@@ -26,6 +26,8 @@ MERGED from [com.facebook.react:react-native:0.50.3] /Users/cultofmetatron/Proje
 		ADDED from /Users/cultofmetatron/Projects/Auth0Example/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/cultofmetatron/Projects/Auth0Example/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [Auth0Example:react-native-auth0:unspecified] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/Auth0Example/react-native-auth0/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:customtabs:23.0.1] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.1] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
@@ -47,6 +49,8 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/cultofmetatron/Project
 		INJECTED from /Users/cultofmetatron/Projects/Auth0Example/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/cultofmetatron/Projects/Auth0Example/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [Auth0Example:react-native-auth0:unspecified] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/Auth0Example/react-native-auth0/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:customtabs:23.0.1] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /Users/cultofmetatron/Projects/Auth0Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20

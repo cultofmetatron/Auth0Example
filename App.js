@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
+import { auth0 } from './src/lib/auth0';
 export default class App extends React.Component {
   render() {
     return (
