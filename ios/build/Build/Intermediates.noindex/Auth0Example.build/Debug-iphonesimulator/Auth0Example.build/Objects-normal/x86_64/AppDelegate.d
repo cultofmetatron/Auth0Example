@@ -9,4 +9,6 @@ dependencies: \
   /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
   /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLinkingManager.h \
+  /Users/cultofmetatron/Projects/Auth0Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h

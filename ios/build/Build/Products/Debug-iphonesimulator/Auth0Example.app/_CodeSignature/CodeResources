@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1PTBrq39QX0y8LqA45+RxR1k5iI=
+		RBMX7Rmeqz/SBxi8tfrY+ckdVoE=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,11 +63,11 @@
 		</data>
 		<key>PlugIns/Auth0ExampleTests.xctest.dSYM/Contents/Resources/DWARF/Auth0ExampleTests</key>
 		<data>
-		dWdNo+OFjhJMi34ee+yELncj47U=
+		PW03Mm46zEBpvH3CJevMQTfDfPw=
 		</data>
 		<key>PlugIns/Auth0ExampleTests.xctest/Auth0ExampleTests</key>
 		<data>
-		ngprKpLMjQSxVgPslNNUp6GmHJE=
+		e8fgP2Vf+oyTsPouE7OFk/LXWN8=
 		</data>
 		<key>PlugIns/Auth0ExampleTests.xctest/Info.plist</key>
 		<data>
@@ -207,22 +207,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dWdNo+OFjhJMi34ee+yELncj47U=
+			PW03Mm46zEBpvH3CJevMQTfDfPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			pT75m9fRVQ88xU/ZMcgC1dVcDUJRExu5fEIZFDIxidg=
+			gY7IG463bgDuF9P7GH8hUe/JXdPpKy4keIqHakq4/WA=
 			</data>
 		</dict>
 		<key>PlugIns/Auth0ExampleTests.xctest/Auth0ExampleTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ngprKpLMjQSxVgPslNNUp6GmHJE=
+			e8fgP2Vf+oyTsPouE7OFk/LXWN8=
 			</data>
 			<key>hash2</key>
 			<data>
-			FR2WB+ETLmPT9jDVO6f1wxs7AS9xF5zhV+Xw769z+hE=
+			X6aetkoadW2aCgR4z5sHNwApu/riJpK9dTC929Hr39I=
 			</data>
 		</dict>
 		<key>PlugIns/Auth0ExampleTests.xctest/Info.plist</key>
